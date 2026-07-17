@@ -1,5 +1,7 @@
 # Hi there, I'm Rudro Kumar Das! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
-
+<p align="center">
+  <img src="./banner.png" alt="Rudro Kumar Das Banner" width="100%">
+</p>
 ## 🚀 About Me
 
 I am **Rudro Kumar Das**, a third-year undergraduate student in **Electrical and Electronics Engineering (EEE)** at **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar, Odisha, India. I am passionate about antenna engineering, electromagnetics, embedded systems, software development, and solving real-world engineering problems through research and technology.
