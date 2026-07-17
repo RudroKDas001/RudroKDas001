@@ -1,4 +1,4 @@
-# Hi there, I'm Rudro Kumar Das! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+# Hello there, I'm Rudro Kumar Das! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
 <p align="center">
   <img src="./banner.png" alt="Rudro Kumar Das Banner" width="100%">
 </p>
