@@ -57,7 +57,7 @@ Patia, Bhubaneswar – 751024, Odisha, India
 
 ---
 
-## 📍 Permanent Address
+## 🏡 Permanent Address
 
 Rostampur, Chuknagar-9252  
 Dumuria, Khulna  
@@ -65,7 +65,7 @@ Bangladesh
 
 ---
 
-## 📍 Permanent Address
+## 📍 Present Address
 
 King's Palace - 26,
 **Nandanbihar**,
