@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./banner.png" alt="Rudro Kumar Das Banner" width="100%">
 </p>
-## 🚀 About Me
+## 🚀 About Myself
 
 I am **Rudro Kumar Das**, a third-year undergraduate student in **Electrical and Electronics Engineering (EEE)** at **Kalinga Institute of Industrial Technology (KIIT)**, Bhubaneswar, Odisha, India. I am passionate about antenna engineering, electromagnetics, embedded systems, software development, and solving real-world engineering problems through research and technology.
 
@@ -64,6 +64,16 @@ Dumuria, Khulna
 Bangladesh
 
 ---
+
+## 📍 Permanent Address
+
+King's Palace - 26,
+**Nandanbihar**,
+**Kalinga Institute of Industrial Technology (KIIT)**  
+Patia, Bhubaneswar – 751024, Odisha, India
+
+---
+
 
 ## 🌐 Connect With Me
 
