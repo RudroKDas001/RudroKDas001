@@ -94,6 +94,9 @@ Patia, Bhubaneswar – 751024, Odisha, India
 - Research & Development
 - Python Programming
 - Open Source Development
+- Photography
+- Astro-photography
+- Astro-physics
 
 ---
 
